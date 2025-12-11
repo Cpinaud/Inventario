@@ -1,0 +1,19 @@
+Archivos de caché de Python
+
+pycache/ .pyc .pyo
+
+Entornos virtuales
+
+venv/ .env/
+
+Configuraciones del sistema
+
+.DS_Store Thumbs.db
+
+Archivos de base de datos locales
+
+*.db
+
+Archivado de pruebas o backups
+
+.bak .tmp
